@@ -1,0 +1,83 @@
+
+> vuejs-essential@1.0.0 build /home/ecommerce/Code/vuejs-essential
+> node build/build.js
+
+Hash: [1mefbf228c9e79c0edd59a[39m[22m
+Version: webpack [1m3.12.0[39m[22m
+Time: [1m51520[39m[22mms
+                                                  [1mAsset[39m[22m       [1mSize[39m[22m  [1mChunks[39m[22m  [1m[39m[22m           [1m[39m[22m       [1mChunk Names[39m[22m
+[1m[32mstatic/css/app.1133bab5d409a1169c4d3ff2d153c68c.css.map[39m[22m    4.52 kB        [1m[39m[22m  [1m[32m[emitted][39m[22m         
+                    [1m[33mstatic/js/0.09a9a291077424193e64.js[39m[22m       [1m[33m1 MB[39m[22m       [1m0[39m[22m  [1m[32m[emitted][39m[22m  [1m[33m[big][39m[22m  
+                    [1m[32mstatic/js/2.b13caaadd92f272eab98.js[39m[22m    8.05 kB       [1m2[39m[22m  [1m[32m[emitted][39m[22m         
+                    [1m[32mstatic/js/3.10c30d1edf37f4178bbf.js[39m[22m     1.5 kB       [1m3[39m[22m  [1m[32m[emitted][39m[22m         
+                    [1m[32mstatic/js/4.006800dd946223a7f354.js[39m[22m    2.83 kB       [1m4[39m[22m  [1m[32m[emitted][39m[22m         
+                    [1m[32mstatic/js/5.8715ec19bf376e2d7721.js[39m[22m    5.14 kB       [1m5[39m[22m  [1m[32m[emitted][39m[22m         
+                    [1m[32mstatic/js/6.5cd4e1d08d6517d0dd19.js[39m[22m    1.01 kB       [1m6[39m[22m  [1m[32m[emitted][39m[22m         
+                    [1m[32mstatic/js/7.612078352536e88e51c5.js[39m[22m    6.06 kB       [1m7[39m[22m  [1m[32m[emitted][39m[22m         
+                    [1m[32mstatic/js/8.1201aa6ffbb3836391fe.js[39m[22m    2.69 kB       [1m8[39m[22m  [1m[32m[emitted][39m[22m         
+                    [1m[32mstatic/js/9.abf957c8fc025aead719.js[39m[22m    1.97 kB       [1m9[39m[22m  [1m[32m[emitted][39m[22m         
+                   [1m[32mstatic/js/10.4850a8fcc1c395c0dacf.js[39m[22m    2.03 kB      [1m10[39m[22m  [1m[32m[emitted][39m[22m         
+                   [1m[32mstatic/js/11.701f53c5b4d176c4c75c.js[39m[22m    2.89 kB      [1m11[39m[22m  [1m[32m[emitted][39m[22m         
+               [1m[33mstatic/js/vendor.644cde57875fc4f0c8d0.js[39m[22m     [1m[33m568 kB[39m[22m      [1m12[39m[22m  [1m[32m[emitted][39m[22m  [1m[33m[big][39m[22m  vendor
+                  [1m[32mstatic/js/app.7c4d96606af5c47f1a15.js[39m[22m    35.3 kB      [1m13[39m[22m  [1m[32m[emitted][39m[22m         app
+             [1m[32mstatic/js/manifest.c1e9ea45c772ad04526b.js[39m[22m    1.76 kB      [1m14[39m[22m  [1m[32m[emitted][39m[22m         manifest
+    [1m[32mstatic/css/app.1133bab5d409a1169c4d3ff2d153c68c.css[39m[22m    1.88 kB      [1m13[39m[22m  [1m[32m[emitted][39m[22m         app
+                    [1m[33mstatic/js/1.74382f18562b05d15088.js[39m[22m    [1m[33m1.05 MB[39m[22m       [1m1[39m[22m  [1m[32m[emitted][39m[22m  [1m[33m[big][39m[22m  
+                [1m[32mstatic/js/0.09a9a291077424193e64.js.map[39m[22m     2.3 MB       [1m0[39m[22m  [1m[32m[emitted][39m[22m         
+                [1m[32mstatic/js/1.74382f18562b05d15088.js.map[39m[22m    2.48 MB       [1m1[39m[22m  [1m[32m[emitted][39m[22m         
+                [1m[32mstatic/js/2.b13caaadd92f272eab98.js.map[39m[22m    28.7 kB       [1m2[39m[22m  [1m[32m[emitted][39m[22m         
+                [1m[32mstatic/js/3.10c30d1edf37f4178bbf.js.map[39m[22m    6.79 kB       [1m3[39m[22m  [1m[32m[emitted][39m[22m         
+                [1m[32mstatic/js/4.006800dd946223a7f354.js.map[39m[22m    10.3 kB       [1m4[39m[22m  [1m[32m[emitted][39m[22m         
+                [1m[32mstatic/js/5.8715ec19bf376e2d7721.js.map[39m[22m    16.4 kB       [1m5[39m[22m  [1m[32m[emitted][39m[22m         
+                [1m[32mstatic/js/6.5cd4e1d08d6517d0dd19.js.map[39m[22m     5.3 kB       [1m6[39m[22m  [1m[32m[emitted][39m[22m         
+                [1m[32mstatic/js/7.612078352536e88e51c5.js.map[39m[22m    19.1 kB       [1m7[39m[22m  [1m[32m[emitted][39m[22m         
+                [1m[32mstatic/js/8.1201aa6ffbb3836391fe.js.map[39m[22m    9.52 kB       [1m8[39m[22m  [1m[32m[emitted][39m[22m         
+                [1m[32mstatic/js/9.abf957c8fc025aead719.js.map[39m[22m    8.56 kB       [1m9[39m[22m  [1m[32m[emitted][39m[22m         
+               [1m[32mstatic/js/10.4850a8fcc1c395c0dacf.js.map[39m[22m    8.17 kB      [1m10[39m[22m  [1m[32m[emitted][39m[22m         
+               [1m[32mstatic/js/11.701f53c5b4d176c4c75c.js.map[39m[22m    11.6 kB      [1m11[39m[22m  [1m[32m[emitted][39m[22m         
+           [1m[32mstatic/js/vendor.644cde57875fc4f0c8d0.js.map[39m[22m    2.13 MB      [1m12[39m[22m  [1m[32m[emitted][39m[22m         vendor
+              [1m[32mstatic/js/app.7c4d96606af5c47f1a15.js.map[39m[22m     131 kB      [1m13[39m[22m  [1m[32m[emitted][39m[22m         app
+         [1m[32mstatic/js/manifest.c1e9ea45c772ad04526b.js.map[39m[22m     8.3 kB      [1m14[39m[22m  [1m[32m[emitted][39m[22m         manifest
+                                             [1m[32mindex.html[39m[22m  601 bytes        [1m[39m[22m  [1m[32m[emitted][39m[22m         
+
+[1m[31mERROR in ./node_modules/extract-text-webpack-plugin/dist/loader.js?{"omit":1,"remove":true}!./node_modules/vue-style-loader!./node_modules/css-loader?{"sourceMap":true}!./node_modules/vue-loader/lib/style-compiler?{"vue":true,"id":"data-v-b4bb3b3e","scoped":false,"hasInlineConfig":false}!./node_modules/sass-loader/lib/loader.js?{"sourceMap":true}!./node_modules/vue-loader/lib/selector.js?type=styles&index=0!./src/App.vue
+Module build failed: ModuleBuildError: Module build failed: Error: Cannot find module 'node-sass'
+    at Function.Module._resolveFilename (module.js:547:15)
+    at Function.Module._load (module.js:474:25)
+    at Module.require (module.js:596:17)
+    at require (internal/module.js:11:18)
+    at Object.sassLoader (/home/ecommerce/Code/vuejs-essential/node_modules/sass-loader/lib/loader.js:46:72)
+    at runLoaders (/home/ecommerce/Code/vuejs-essential/node_modules/webpack/lib/NormalModule.js:195:19)
+    at /home/ecommerce/Code/vuejs-essential/node_modules/loader-runner/lib/LoaderRunner.js:364:11
+    at /home/ecommerce/Code/vuejs-essential/node_modules/loader-runner/lib/LoaderRunner.js:230:18
+    at runSyncOrAsync (/home/ecommerce/Code/vuejs-essential/node_modules/loader-runner/lib/LoaderRunner.js:143:3)
+    at iterateNormalLoaders (/home/ecommerce/Code/vuejs-essential/node_modules/loader-runner/lib/LoaderRunner.js:229:2)
+    at iterateNormalLoaders (/home/ecommerce/Code/vuejs-essential/node_modules/loader-runner/lib/LoaderRunner.js:218:10)
+    at /home/ecommerce/Code/vuejs-essential/node_modules/loader-runner/lib/LoaderRunner.js:233:3
+    at Object.context.callback (/home/ecommerce/Code/vuejs-essential/node_modules/loader-runner/lib/LoaderRunner.js:111:13)
+    at Object.module.exports (/home/ecommerce/Code/vuejs-essential/node_modules/vue-loader/lib/selector.js:21:8)
+ @ ./src/App.vue 2:2-391
+ @ ./src/main.js[39m[22m
+
+[1m[31mERROR in ./node_modules/extract-text-webpack-plugin/dist/loader.js?{"omit":1,"remove":true}!./node_modules/vue-style-loader!./node_modules/css-loader?{"sourceMap":true}!./node_modules/vue-loader/lib/style-compiler?{"vue":true,"id":"data-v-b4bb3b3e","scoped":false,"hasInlineConfig":false}!./node_modules/sass-loader/lib/loader.js?{"sourceMap":true}!./node_modules/vue-loader/lib/selector.js?type=styles&index=0!./src/App.vue
+Module build failed: ModuleBuildError: Module build failed: Error: Cannot find module 'node-sass'
+    at Function.Module._resolveFilename (module.js:547:15)
+    at Function.Module._load (module.js:474:25)
+    at Module.require (module.js:596:17)
+    at require (internal/module.js:11:18)
+    at Object.sassLoader (/home/ecommerce/Code/vuejs-essential/node_modules/sass-loader/lib/loader.js:46:72)
+    at runLoaders (/home/ecommerce/Code/vuejs-essential/node_modules/webpack/lib/NormalModule.js:195:19)
+    at /home/ecommerce/Code/vuejs-essential/node_modules/loader-runner/lib/LoaderRunner.js:364:11
+    at /home/ecommerce/Code/vuejs-essential/node_modules/loader-runner/lib/LoaderRunner.js:230:18
+    at runSyncOrAsync (/home/ecommerce/Code/vuejs-essential/node_modules/loader-runner/lib/LoaderRunner.js:143:3)
+    at iterateNormalLoaders (/home/ecommerce/Code/vuejs-essential/node_modules/loader-runner/lib/LoaderRunner.js:229:2)
+    at iterateNormalLoaders (/home/ecommerce/Code/vuejs-essential/node_modules/loader-runner/lib/LoaderRunner.js:218:10)
+    at /home/ecommerce/Code/vuejs-essential/node_modules/loader-runner/lib/LoaderRunner.js:233:3
+    at Object.context.callback (/home/ecommerce/Code/vuejs-essential/node_modules/loader-runner/lib/LoaderRunner.js:111:13)
+    at Object.module.exports (/home/ecommerce/Code/vuejs-essential/node_modules/vue-loader/lib/selector.js:21:8)
+ @ ./node_modules/extract-text-webpack-plugin/dist/loader.js?{"omit":1,"remove":true}!./node_modules/vue-style-loader!./node_modules/css-loader?{"sourceMap":true}!./node_modules/vue-loader/lib/style-compiler?{"vue":true,"id":"data-v-b4bb3b3e","scoped":false,"hasInlineConfig":false}!./node_modules/sass-loader/lib/loader.js?{"sourceMap":true}!./node_modules/vue-loader/lib/selector.js?type=styles&index=0!./src/App.vue
+ @ ./src/App.vue
+ @ ./src/main.js[39m[22m
+
+  Build failed with errors.
+
