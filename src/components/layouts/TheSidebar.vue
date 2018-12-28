@@ -38,7 +38,7 @@
         <ul class="list">
           <li v-for="(article, index) in hotArticles">
             <router-link :to="`/articles/${article.articleId}/content`">
-              <span v-if="index === 0">?</span>
+              <span v-if="index === 0">🏆</span>
               <span v-else>{{ index + 1 }}.</span>
               {{ article.title }}
             </router-link>
@@ -105,6 +105,7 @@ export default {
       ],
       activeUsers: [], // 活跃用户
       hotArticles: [], // 最热文章
+
       // 推荐资源
       resources: [
         {
